@@ -1,2 +1,6 @@
-src/*~
+# Bazaar VCS
+.bzr
+
+# Generated content
+*~
 src/gtk-hello
