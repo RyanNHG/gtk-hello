@@ -3,4 +3,6 @@
 
 # Generated content
 *~
-src/gtk-hello
+src/*
+!src/**/
+!src/*.vala
